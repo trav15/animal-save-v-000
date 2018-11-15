@@ -9,5 +9,7 @@ html {
 }
 
 @media only screen and (min-width: 1196px) {
-  left: 800px;
+  #bear {
+    left: 800px;
+  }
 }
